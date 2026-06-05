@@ -4,54 +4,45 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZhonX07&style=for-the-badge&color=0E75B6" alt="Visitor Count"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZhonX07&show_icons=true&theme=radical&hide_rank=true" alt="ZhonXu's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhonX07&layout=compact&langs_count=6" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=ZhonX07&style=for-the-badge&color=0E75B6" alt="Visitor Count"/>
 </p>
 
 ---
 
 ## 👋 About Me
 
-- 🎓 **High School Student** | Age: **17 (2007/10/07)**
-- 🧑‍💻 Currently working on **[Koishi.js](https://github.com/koishijs/koishi)** chatbot plugins.
-- 🧪 Passionate about personal growth & small experiments.
-- 🏷️ Nickname: **ZhonXu**
+- 🎓 High school student, Shandong, China
+- 🧑‍💻 Building **[TASC](https://github.com/AwP0rtuh1ty/TASC)** — an offline-first campus courseware distribution system for my alma mater
+- 🔒 Deeply interested in applied cryptography, E2EE, and lightweight system design
+- ⚡ Philosophy: **Ship fast, stay lean. No Electron.**
 
-## 📫 Contact Me
+## 🛠️ Active Projects
 
-- 📧 Email: `Creeper000011901@outlook.com` | `mida42328@gmail.com`
-- 🐦 Twitter: [@ZhonXuForCS](https://twitter.com/ZhonXuForCS)
+| Project | What it does | Stack |
+|---|---|---|
+| **TASC** | Offline campus courseware distribution + WebAuthn auth | TypeScript, Fastify, Vue 3, Tauri |
+| **Better Furnace** | Minecraft Forge mod (1.20.1) | Java, Gradle, Forge |
+| **Koishi Plugins** | Chatbot automation | TypeScript, Koishi.js |
+| **zhonxublog** | Personal tech blog | Valaxy, Self-hosted |
 
----
+## 📬 Contact
 
-## 💻 Dev Environment
-
-- 🖥️ OS: Windows 11
-- 📝 Editor: Visual Studio Code
-
-## ⚙️ Code Styles
-
-- ✨ Languages: Python, TypeScript, HTML
-- 📜 License: MIT
+- 📧 `Creeper000011901@outlook.com`
+- 🐦 [@ZhonXuForCS](https://twitter.com/ZhonXuForCS)
 
 ---
 
-## 🎮 Status
-
-> _Keep learning, keep creating. The light is always with you._
+>  *"勇者よ。光があなたと共にあらんことを。"*
+>
+>  *Brave one. May the light be with you.*
+>
+>  *Building for my alma mater. Delivering before 2030.*
